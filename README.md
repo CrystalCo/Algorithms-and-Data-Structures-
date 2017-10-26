@@ -1,2 +1,1 @@
-# DATA-STRUCTURES
-This was the first assignment from the Data Structure 1 course. I have successfully implemented all the methods and passed the test provided by our professor Radha Jagadeesan 
+Algorithms- Data Structure - DePaul University + Princeton University. This repository is from my own original work that I have done in my Masters degree program in Software Engineering at DePaul University with Prof.John Rogers and Prof.Radha Jagadeesan
